@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/song/workingSongs.md",
+                "file": "code/rust/rust in action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "workingSongs"
+              "title": "rust in action"
             }
           }
         ]
@@ -165,22 +165,24 @@
   },
   "active": "50d01253b3df8847",
   "lastOpenFiles": [
-    "life/poetry/chinesepoetry.md",
+    "新建 文本文档.txt",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.exe",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.4vdt9o5h2e3xwgo9.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.jr0eh1qvqwydv1c.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.5dbt1s4t3y04w3zg.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.2qf71d281ap2k138.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.4u5eodxqsg4rr1rt.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.4fnvz2zcckut3zcr.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.nvpvsp6iof8lyl1.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.uszd2revs9pytev.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.4gh7eb1zc55x2zjd.rcgu.o",
     "life/song/workingSongs.md",
+    "code/rust/rust in action.md",
+    "life/poetry/chinesepoetry.md",
     "life/poetry/随记.md",
     "code/softtools/obsidian.md",
     "life/books/红楼梦.md",
-    "code/softtools",
-    "life/poetry",
-    "life/books",
     "鸳鸯戏DJ.md",
-    "README.md",
-    "life/song",
-    "life",
-    "code/python",
-    "code/java",
-    "code/rust",
-    "code",
-    "linux"
+    "README.md"
   ]
 }
