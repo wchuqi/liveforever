@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b12452b427294144",
+        "id": "9339d2bcc9357c82",
         "type": "tabs",
         "children": [
           {
-            "id": "50d01253b3df8847",
+            "id": "b24bc1c75de4eb0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,23 +134,23 @@
             }
           },
           {
-            "id": "a63b06dbd5f4ef9a",
+            "id": "01cd03c03d598066",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "code/softtools/obsidian.md"
+                "file": "code/rust/rust in action.md"
               },
               "icon": "lucide-list",
-              "title": "obsidian 的大纲"
+              "title": "rust in action 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,24 +163,23 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "50d01253b3df8847",
+  "active": "b24bc1c75de4eb0d",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.exe",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.4vdt9o5h2e3xwgo9.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.jr0eh1qvqwydv1c.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.5dbt1s4t3y04w3zg.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.2qf71d281ap2k138.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.4u5eodxqsg4rr1rt.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.4fnvz2zcckut3zcr.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.nvpvsp6iof8lyl1.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.uszd2revs9pytev.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.4gh7eb1zc55x2zjd.rcgu.o",
-    "life/song/workingSongs.md",
+    "code/softtools/obsidian.md",
     "code/rust/rust in action.md",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.exe",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.33byyj5n6kci9756.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.2dfv65hlxtkumv4v.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.20ossf44hxz4aka2.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.14rj6plv544fjnr2.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.3n0mh6fiybk1kgps.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.3wguvz1t6rshtdm0.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.krdg42r6mxoeiio.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.87ek7p7k4wxtfea.rcgu.o",
+    "code/sourcecode/rust_demo_1/target/debug/incremental/rust_demo_1-376b863gjk17d/s-h3o1isnewa-14mhz6t-working/dep-graph.part.bin",
+    "life/song/workingSongs.md",
     "life/poetry/chinesepoetry.md",
     "life/poetry/随记.md",
-    "code/softtools/obsidian.md",
     "life/books/红楼梦.md",
     "鸳鸯戏DJ.md",
     "README.md"

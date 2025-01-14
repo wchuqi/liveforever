@@ -8,9 +8,19 @@ fn hello() {
     }
 }
 fn main() {
-    println!("Hello, world!");
-    hello(); // 函数调用
-    handleCsv();
+    // println!("Hello, world!");
+    // hello(); // 函数调用
+    // handleCsv();
+
+    // drop_pointer();
+
+    // err_thread();
+
+    // err_stackoverflow();
+
+    // err_iter();
+
+    int_create();
 }
 
 fn handleCsv() {
@@ -48,4 +58,60 @@ fn handleCsv() {
             println!("{}, {} cm", name, length);
         }
     }
+}
+
+// 悬垂指针例子
+// 允许使用println!宏来输出枚举体Cereal
+// #[derive(Debug)]
+// enum Cereal { // enum(枚举体，是enumeration的缩写)，是一个具有固定数量的合法变体的类型
+//     AA,BB,CC,
+// }
+// fn drop_pointer() {
+//     // vec!也是一个宏
+//     let mut grains: Vec<Cereal> = vec![]; // 初始化一个空的动态数组，其元素粪型Cereal
+//     grains.push(Cereal::AA); // 动态数据里添加一个元素
+//     drop(grains); // 删除动态数组
+//     println!("{:?}", grains); // 试图访问已经删除的值
+// }
+
+// 数据竞争例子
+// use std::thread;
+// fn err_thread() {
+//     let mut data = 100;
+//     thread::spawn(|| { data = 200; });
+//     thread::spawn(|| { data = 300; });
+//     println!("{}", data);
+// }
+
+// 缓冲区溢出
+// fn err_stackoverflow() {
+//     let data = ['a', 'b'];
+//     let val = data[3]; // error: this operation will panic at runtime
+//     assert_eq!(val, 'c');
+// }
+
+// 迭代器失效
+// fn err_iter() {
+//     let mut data = vec!['a', 'b', 'c'];
+//     for item in data {
+//         println!("{}", item);
+//         data.push(item.clone());
+//     }
+// }
+
+// 创建整数值的多种形式
+/*
+要理解Rust为什么会有这么多种不同的方式，请参考以下3条原则：
+1、语言的第一要务是安全性。
+2、默认情况下，Rust中的数据是不可变的。
+3、编译时检查是强烈推荐使用的。安全性应该是"零成本抽象"的。
+*/
+use std::rc::Rc;
+use std::sync::{Arc, Mutex};
+fn int_create() {
+    let a = 10; // 在栈中的整数
+    let b = Box::new(20); // 在堆中的整数
+    let c = Rc::new(Box::new(30)); // 包装在一个引用计数器中的装箱的整数
+    let d = Arc::new(Mutex::new(40)); // 包装在一个原子引用计数器中的整数，并由一个互斥锁保护
+    println!("a:{:?}, b:{:?}, c:{:?}, d:{:?}", a, b, c, d);
 }
