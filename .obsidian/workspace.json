@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9339d2bcc9357c82",
+        "id": "539cf1213dc82501",
         "type": "tabs",
         "children": [
           {
-            "id": "b24bc1c75de4eb0d",
+            "id": "cba6f8d64884ae50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/rust/rust in action.md",
+                "file": "life/song/workingSongs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rust in action"
+              "title": "workingSongs"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#刘过《唐多令·芦叶满汀洲》",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code/rust/rust in action.md"
+                "file": "life/song/workingSongs.md"
               },
               "icon": "lucide-list",
-              "title": "rust in action 的大纲"
+              "title": "workingSongs 的大纲"
             }
           }
         ],
@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pkmer:Open Pkmer Market": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -163,24 +164,40 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b24bc1c75de4eb0d",
+  "active": "cba6f8d64884ae50",
   "lastOpenFiles": [
+    "life/books/人体简史.md",
+    "life/movie/夏日幽灵.md",
+    "life/books/人世间.md",
+    "life/movie",
+    "life/song/workingSongs.md",
+    "life/poetry/随记.md",
+    "life/poetry/chinesepoetry.md",
+    "code/softtools/资源.md",
     "code/softtools/obsidian.md",
+    "life/books/红楼梦.md",
+    "life/books/榜单.md",
+    "4346A87D.png",
+    "AI/LangChain.md",
+    "算法",
+    "AI",
+    "code/softtools/devops/grafana.md",
+    "code/softtools/devops/images/Pasted image 20250116231905.png",
+    "code/softtools/devops/images/Pasted image 20250116231520.png",
+    "code/softtools/devops/images/Pasted image 20250116225256.png",
+    "images/Pasted image 20250116225256.png.md",
+    "images",
+    "Pasted image 20250116225256.png",
+    "code/softtools/devops/images",
+    "code/softtools/devops/新建文件夹",
+    "新建文件夹",
+    "code/softtools/devops/Prometheus.md",
+    "code/softtools/devops",
+    "Pasted image 20250116231905.png",
+    "Pasted image 20250116231520.png",
     "code/rust/rust in action.md",
     "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.exe",
     "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.33byyj5n6kci9756.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.2dfv65hlxtkumv4v.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.20ossf44hxz4aka2.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.14rj6plv544fjnr2.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.3n0mh6fiybk1kgps.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.3wguvz1t6rshtdm0.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.krdg42r6mxoeiio.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/deps/rust_demo_1-4e86e0d0be31677b.87ek7p7k4wxtfea.rcgu.o",
-    "code/sourcecode/rust_demo_1/target/debug/incremental/rust_demo_1-376b863gjk17d/s-h3o1isnewa-14mhz6t-working/dep-graph.part.bin",
-    "life/song/workingSongs.md",
-    "life/poetry/chinesepoetry.md",
-    "life/poetry/随记.md",
-    "life/books/红楼梦.md",
     "鸳鸯戏DJ.md",
     "README.md"
   ]
