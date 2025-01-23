@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "539cf1213dc82501",
+        "id": "0661178e5f970892",
         "type": "tabs",
         "children": [
           {
-            "id": "cba6f8d64884ae50",
+            "id": "f7f59105b8bf8624",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,15 +164,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "cba6f8d64884ae50",
+  "active": "f7f59105b8bf8624",
   "lastOpenFiles": [
+    "life/song/workingSongs.md",
+    "life/movie/波西米亚狂想曲 Bohemian Rhapsody (2018).md",
+    "life/poetry/chinesepoetry.md",
     "life/books/人体简史.md",
     "life/movie/夏日幽灵.md",
     "life/books/人世间.md",
     "life/movie",
-    "life/song/workingSongs.md",
     "life/poetry/随记.md",
-    "life/poetry/chinesepoetry.md",
     "code/softtools/资源.md",
     "code/softtools/obsidian.md",
     "life/books/红楼梦.md",

@@ -934,3 +934,422 @@ OP : 野草文化传媒weeds music
 这秋天的风  
 也把你带远了
 ```
+
+
+# _Take Me To Church_
+歌手：[Hozier](https://music.163.com/artist?id=862014)
+作词 : Andrew Hozier-Byrne  
+作曲 : Andrew Hozier-Byrne
+
+https://music.163.com/#/song?id=1870475523
+
+```
+My lover's got humor  
+我的爱人幽默风趣  
+She's the giggle at a funeral  
+她在葬礼上会被人咯咯嘲笑  
+Knows everybody's disapproval  
+明知世人的反对  
+I should've worshipped her sooner  
+可我应该早些敬奉她  
+
+If the heavens ever did speak  
+若天堂曾有言语  
+She's the last true mouthpiece  
+那她便代表着上帝所说的真理  
+Every Sunday's getting more bleak  
+每个周日的生活都无比黯然  
+A fresh poison each week  
+每周都不断在污染人世  
+We were born sick  
+我们生来有孽  
+You heard them say it  
+你却听见他们说  
+My church offers no absolutes  
+我的教堂中绝无真理  
+She tells me  
+她告诉我  
+Worship in the bedroom  
+在卧室祷告即可  
+The only Heaven I'll be sent to  
+我唯独将被送往的天堂  
+Is when I'm alone with you  
+是我能够与你独自生活的地方  
+I was born sick but I love it  
+我生而有罪 可这即为我所热爱的生活  
+Command me to be well  
+他们命令我必须洗刷罪孽  
+Aaa Amen Amen Amen  
+啊 阿门 阿门 阿门  
+Take me to church  
+带我前往教堂  
+I'll worship like a dog at the shrine of your lies  
+我将会如动物般 在你满是谎言的圣地 虔诚礼拜  
+I'll tell you my sins and you can sharpen your knife  
+我将如数吐露我的罪孽 而你能够利用你的利刃  
+Offer me that deathless death  
+赐予我责罚 将我打入无尽炼狱  
+Good God let me give you my life  
+伟大的上帝 请允许我为您献出生命  
+Take me to church  
+带我前往教堂  
+I'll worship like a dog at the shrine of your lies  
+我将会如动物般 在你满是谎言的圣地 虔诚礼拜  
+I'll tell you my sins and you can sharpen your knife  
+我将如数吐露我的罪孽 而你能够利用你的利刃  
+Offer me that deathless death  
+赐予我责罚 将我打入无尽炼狱  
+Good God let me give you my life  
+伟大的上帝 请允许我为您献出生命  
+  
+  
+If I'm a pagan of the good times  
+若我是一位拥有美好人生的异教徒  
+My lover's the sunlight  
+我的爱人便是一缕阳光  
+To keep the goddess on my side  
+将女神送往我的身边  
+She demands a sacrifice  
+她需要祭品  
+Drain the whole sea  
+将汪洋排尽  
+Get something shiny  
+获得闪耀的事物  
+Something meaty for the main course  
+肥厚肉块作为主菜  
+That's a fine looking high horse  
+来自一匹良种马  
+What you got in the stable  
+从马厩中精心挑选  
+We've a lot of starving faithful  
+我们有着许多无比饥饿的虔诚教徒  
+That looks tasty  
+这看上去多么可口  
+That looks plenty  
+这看上去多么丰富  
+This is hungry work  
+这是名为渴望的献祭  
+Take me to church  
+带我前往教堂  
+I'll worship like a dog at the shrine of your lies  
+我将会如动物般 在你满是谎言的圣地 虔诚礼拜  
+I'll tell you my sins so you can sharpen your knife  
+我将如数吐露我的罪孽 而你能够利用你的利刃  
+Offer me my deathless death  
+赐予我责罚 将我打入无尽炼狱  
+Good God let me give you my life  
+伟大的上帝 请允许我为您献出生命  
+Take me to church  
+带我前往教堂  
+I'll worship like a dog at the shrine of your lies  
+我将会如动物般 在你满是谎言的圣地 虔诚礼拜  
+I'll tell you my sins so you can sharpen your knife  
+我将如数吐露我的罪孽 而你能够利用你的利刃  
+Offer me my deathless death  
+赐予我责罚 将我打入无尽炼狱  
+Good God let me give you my life  
+伟大的上帝 请允许我为您献出生命  
+  
+  
+No masters or kings when the ritual begins  
+而当祭典开始后 便无主 亦或国王的存在  
+There is no sweeter innocence than our gentle sin  
+世上并无美妙的无辜 唯有轻微的罪孽  
+In the madness and soil of that sad earthly scene  
+存在于这野蛮 亦世俗的土地  
+Only then I am human  
+唯此之后 我才能够身为人类  
+Only then I am clean  
+唯此之后 我才能留清白在人间  
+  
+  
+Oh oh Amen Amen Amen  
+阿门 阿门 阿门  
+  
+  
+Take me to church  
+带我前往教堂  
+I'll worship like a dog at the shrine of your lies  
+我将会如动物般 在你满是谎言的圣地 虔诚礼拜  
+I'll tell you my sins and you can sharpen your knife  
+我将如数吐露我的罪孽 而你能够利用你的利刃  
+Offer me that deathless death  
+赐予我责罚 将我打入无尽炼狱  
+Good God let me give you my life  
+伟大的上帝 请允许我为您献出生命  
+  
+  
+Take me to church  
+带我前往教堂  
+I'll worship like a dog at the shrine of your lies  
+我将会如动物般 在你满是谎言的圣地 虔诚礼拜  
+I'll tell you my sins and you can sharpen your knife  
+我将如数吐露我的罪孽 而你能够利用你的利刃  
+Offer me that deathless death  
+赐予我责罚 将我打入无尽炼狱  
+Good God let me give you my life  
+伟大的上帝 请允许我为您献出生命
+```
+
+# 波西米亚狂想曲（_Bohemian Rhapsody_）
+歌手：[Queen](https://music.163.com/artist?id=41906)
+所属专辑：[Absolute Greatest](https://music.163.com/album?id=188637)
+
+
+https://youtu.be/HspDO2ZYizI?list=WL 
+作者：Jake Mercury
+
+6分钟5章4种风格，1、钢琴伴奏，倾诉。2、咏叹调，向母亲交代罪行。3、合唱，众神审判。4、金属，反抗。5、钢琴伴奏，从命。就酱。
+
+1985年7月13日举行的LIVE AID的大型摇滚乐演唱会，当时大腕云集，大卫鲍伊，迈克尔杰克逊，保罗麦肯特尼，麦当娜，鲍勃迪伦，u2等等。但因为时间紧迫，就算是u2这样的大腕也只能唱一首歌，而queen的表演时间足有半小时！那场演出queen在6点40出场，借着落日的余晖演唱的第一首就是Bohemian Rhapsody！
+
+
+```
+Is this the real life  
+这一切是真的吗  
+Is this just fantasy  
+亦或仅仅是幻觉  
+Caught in a landslide  
+被困于山崩地裂  
+
+No escape from reality  
+无法逃脱现实的牢笼  
+Open your eyes, look up to the skies and see  
+睁开你的双眼 抬头望望天空  
+I'm just a poor boy, (oooh, poor boy)  
+我只是一个可怜的小孩  
+I need no sympathy  
+我不需要同情  
+Because I'm easy come, easy go  
+因为我总是说来就来 说走就走  
+Little high, little low  
+时而高亢 时而低沉  
+Anyway the wind blows, doesn't really matter to me  
+风往何处吹 对我来说已无关紧要  
+To me  
+对我来说已无关紧要  
+  
+  
+Mama, just killed a man  
+妈妈啊 我刚刚杀了个人  
+Put a gun against his head  
+我拿枪指着他的头  
+Pulled my trigger now he's dead  
+扣下扳机 枪响人亡  
+Mama, life had just begun  
+妈妈啊 生活才刚刚开始啊  
+But now I've gone and thrown it all away  
+然而如今我却远走并抛之脑后  
+Mama, oooh  
+妈妈 喔  
+Didn't mean to make you cry  
+我并不想让你流泪  
+If I'm not back again this time tomorrow  
+要是我在明天这个时候未能归来  
+Carry on, carry on, as if nothing really matters  
+让生活继续吧 如同什么都没发生  
+  
+  
+Too late, my time has come  
+太晚了 我的归宿要来了  
+Sends shivers down my spine  
+我的脊梁开始发颤  
+Body's aching all the time  
+浑身上下疼痛难忍  
+Goodbye everybody, I've got to go  
+再见吧 各位 我要离开了  
+Gotta leave you all behind and face the truth  
+我将离你们而去 去接受现实的审判  
+Mama, oooh  
+妈妈 喔  
+(Anyway the wind blows)  
+风往何处吹  
+I don't wanna die  
+我也不想死去  
+I sometimes wish I'd never been born at all  
+甚至有时我希望自己未曾来到这世上  
+  
+  
+I see a little silhouetto of a man  
+我看到一个小小的人影  
+Scaramouche, Scaramouche will you do the fandango?  
+小丑角 胆小鬼 你会跳方丹戈舞吗  
+Thunderbolts and lightning  
+这雷鸣与电闪  
+Very, very frightening me  
+着实惊吓到我了  
+Galileo, galileo  
+伽利略 伽利略  
+Galileo, galileo  
+伽利略 伽利略  
+Galileo, figaro  
+伽利略 费加罗  
+Magnifico-o-o-o-oh  
+贵族大人  
+But I'm just a poor boy, nobody loves me  
+但我只是个穷小孩 没有人爱我  
+He's just a poor boy from a poor family  
+他只是个穷人家里的一个穷小孩  
+Spare him his life from this monstrosity  
+饶了这怪胎一命吧  
+Easy come, easy go, will you let me go  
+我总是被人使唤 你们会放我走吗  
+Bismillah! No, we will not let you go, let him go  
+以神之名 不 我们不会放你走 让他走  
+Bismillah! We will not let you go, let him go  
+以神之名 我们不会放你走 让他走  
+Bismillah! We will not let you go, let me go  
+以神之名 我们不会放你走 让我走  
+Will not let you go, let me go  
+我们不会放你走 让我走  
+Never, never, never, never let me go-o-o-o-oh (Never let you go)  
+不会放我走 (不会放你走)  
+No, no, no, no, no, no, no  
+不 不 不 不 不 不 不  
+Oh, mamma mia, mamma mia  
+哦 妈妈咪呀 妈妈咪呀  
+Mamma mia let me go  
+妈妈咪呀 让我走吧  
+Beelzebub has a devil put aside for me, for me, for me  
+别西卜派了一个魔鬼到我身边  
+  
+  
+So you think you can stone me and spit in my eye?  
+那么你们以为可以拿石头砸死我 唾弃我  
+So you think you can love me and leave me to die?  
+那么你们以为可以爱着我 再让我一个人死去  
+Oh, baby, can't do this to me baby  
+哦 宝贝 不能这样对我 宝贝  
+Just gotta get out, just gotta get right outta here  
+我必须出去 我必须逃离这个地方  
+  
+  
+Ooooh  
+  
+Oooh yeah, oooh yeah  
+  
+  
+  
+Nothing really matters  
+什么都没有意义了  
+Anyone can see  
+任何人都看得出来  
+Nothing really matters  
+一切都无关紧要  
+Nothing really matters to me  
+对我来说已无关紧要了  
+  
+  
+Anyway the wind blows  
+无论风往何处吹  
+  
+  
+Producers : Roy Thomas Baker / Queen  
+  
+Lead & Backing Vocals : Freddie Mercury  
+  
+Piano : Freddie Mercury  
+  
+Electric Guitar : Brian May  
+  
+Bass Guitar : John Deacon  
+  
+Drums, Timpani & Gong : Roger Taylor  
+  
+Operatic Vocals : Freddie Mercury (Middle Register) / Brian May (Low Register) / Roger Taylor (High Register)  
+  
+Recorded at Rockfield Studio, Roundhouse, Sarm East Studios, Scorpio Sound, and Wessex Sound Studios
+```
+
+# Creep 
+歌手：[Radiohead](https://music.163.com/artist?id=99384)
+所属专辑：[Pablo Honey](https://music.163.com/album?id=2068963)
+#Radiohead
+
+
+作词 : Thom Yorke  
+作曲 : Albert Hammond/Colin Greenwood/Ed O'Brien/Jonny Greenwood/Mike Hazlewood/Phil Selway/Thom Yorke  
+制作人 : Sean Slade/Paul Kolderie
+
+性单恋（lithromantic），是指感受到浪漫爱情但不希望得到对方回应的一种浪漫倾向，当自己爱慕的对象同样对自己产生浪漫或爱情时，性单恋者反而会感到不适，开始疏远对方，他们并不希望与对方建立关系
+
+8步入坑Radiohead：  
+1、听《Creep》  
+2、随便听听其他的歌比如《High and Dry》和《Karma Police》  
+3、听《Paranoid Android》  
+4、听《OK Computer》整张专辑  
+5、听《In Rainbows》整张专辑  
+6、听《The Bends》整张专辑  
+7、听《Kid A》整张专辑  
+8、听他们的全部其他作品
+
+```
+When you were here before  
+当你出现在我面前  
+Couldn't look you in the eye  
+我却不敢直视你的双眼  
+You're just like an angel  
+你就像天使一样纯洁  
+
+Your skin makes me cry  
+你的一切令我动容  
+You float like a feather  
+你就像羽毛一样轻盈  
+In a beautiful world  
+飘浮在美丽的世界里  
+And I wish I was special  
+多希望我也是特别的  
+You're so ******' special  
+因为你如此与众不同  
+But I'm a creep, I'm a weirdo.  
+但我却是如此卑劣 我是一个怪胎  
+What the hell am I doing here?  
+我不知道自己在这里做什么  
+I don't belong here.  
+我根本不属于这里  
+I don't care if it hurts  
+我不在乎是否受伤  
+I wanna have control  
+我只想保持冷静  
+I want a perfect body  
+我想要一个完美的外表  
+I want a perfect soul  
+我想要一个完美的灵魂  
+I want you to notice  
+多希望你能注意到  
+When I'm not around  
+当我不在身边的时候  
+You're so ******' special  
+你是那么特别  
+I wish I was special  
+我希望自己也能如你一样  
+But I'm a creep, I'm a weirdo.  
+可我却是如此古怪 如此格格不入  
+What the hell am I doing here?  
+我不知道为何要出现在这里  
+I don't belong here.  
+我不属于这里  
+She's running out again  
+她再次逃离我身边  
+She's running out  
+她再次离去  
+She run, run, run, run! Run!  
+她跑啊跑啊跑啊  
+Whatever makes you happy  
+到底什么才能让你快乐  
+Whatever you want  
+到底你想要什么  
+You're so ******' special  
+你是那么与众不同  
+I wish I was special  
+我多希望能配得上你  
+But I'm a creep, I'm a weirdo,  
+但我是个懦夫 是个怪胎  
+What the hell am I doing here?  
+我还在这里做什么  
+I don't belong here.  
+我根本不属于这里  
+I don't belong here.  
+我不属于这里
+```
+
